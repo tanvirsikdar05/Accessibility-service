@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proficientworkers</string>
+    <string name="accessibility_service_label">ownacce</string>
+    <string name="accessibility_service_description">sm</string>
+</resources>
